@@ -6,7 +6,7 @@ To use this script, clone the repository to your local machine:
 
 bash
 Copy code
-git clone [repository URL]
+**git clone [repository URL]**
 Make sure Python is installed on your system. This script is compatible with Python 3.x.
 
 **Usage**
