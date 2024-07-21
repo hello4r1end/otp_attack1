@@ -7,7 +7,7 @@ This repository hosts a Python script designed to perform various operations rel
 To use this script, clone the repository to your local machine:
 
 ```bash
-git clone [repository URL]
+git clone https://github.com/hello4r1end/otp_attack1
 ```
 
 Make sure Python is installed on your system. This script is compatible with Python 3.x.
@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Note: Ensure to replace `[repository URL]` with the actual URL of the GitHub repository. This documentation provides a general overview and basic usage guide for the script. Users are encouraged to read the source code for more in-depth understanding.
+Note: Ensure to replace https://github.com/hello4r1end/otp_attack1  with the actual URL of the GitHub repository. This documentation provides a general overview and basic usage guide for the script. Users are encouraged to read the source code for more in-depth understanding.
